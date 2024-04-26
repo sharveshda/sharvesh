@@ -1,0 +1,9 @@
+i need to create a react cross platfrom app
+
+
+okay so the basic app idea is, imagine you go to a new location and you wanna eat something very special and popular in that place. so what this app does is, it basically uses the data available in social media platforms to recommend restaurants and diners at that particular location.
+
+
+okay so the app UI will be like this, the home screen will have a search bar at the top, three options to filter the restaurants, and below that is a card list of all the restaurants and diners sorted by ratings. When you click on a restaurant, that screen will include things like directions to the restaurant, menu, comments, and star rating all cleanly arranged and organized
+
+
